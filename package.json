@@ -1,0 +1,19 @@
+{
+  "name": "netology-homework_nodejs_http-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiHami1024/netology-homework_nodejs_http-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiHami1024/netology-homework_nodejs_http-module/issues"
+  },
+  "homepage": "https://github.com/RamiHami1024/netology-homework_nodejs_http-module#readme"
+}
